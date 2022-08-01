@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e91616217d276e6439b5af9cf43a1769, type: 3}
+  m_Name: HealBuff
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: f586aceb1646a7241b6a579862314533, type: 2}
+  effect: {fileID: 11400000, guid: 0088906f29e88784ab75e983b22959fb, type: 2}
+  vfx: {fileID: 1567538587483912830, guid: ba7b5b38562ca8941aa27af7e384ad8b, type: 3}
